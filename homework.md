@@ -54,3 +54,6 @@ Mehmet Alpergün, Selvanur Kıraç
 OGcar(Ogün Ak , Şaban Kerem Yeğin , Tuğcan Turunçkapı)
 
 MENDERES (Selahattin Deniz Döktür, Efecan Erdem)
+
+# Strategy: The Selfish Philosophers Solution
+Eren Gökçe, Barış Bağçeci, Metehan Efe, Kubilay Çakmak
